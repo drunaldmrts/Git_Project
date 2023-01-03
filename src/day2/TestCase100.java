@@ -6,4 +6,6 @@ public class TestCase100 {
 
     // added two test items
 
+    // verify the total price of items
+
 }
